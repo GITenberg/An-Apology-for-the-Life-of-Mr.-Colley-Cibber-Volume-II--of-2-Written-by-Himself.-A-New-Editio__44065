@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36193'
     url: http://www.gutenberg.org/2009/agents/36193
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44065#An-Apology-for-the-Life-of-Mr.-Colley-Cibber-Volume-II--of-2-Written-by-Himself.-A-New-Editio_
 gutenberg_issued: '2013-10-29'
 gutenberg_type: Text
 identifiers:
